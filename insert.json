@@ -1,0 +1,1384 @@
+{
+  "jogadores": [
+    {
+      "_id": "6a0df90846c793685d73193d",
+      "nome_jogador": "LUCAS MORAES",
+      "email_jogador": "lucas@email.com",
+      "telefone_jogador": "99999-0001",
+      "posicao_preferida": "Armador",
+      "pontuacao": 25,
+      "assistencias": 5,
+      "rebotes": 4,
+      "roubos": 2,
+      "bloqueios": 1,
+      "qtd_partidas": 6
+    },
+    {
+      "_id": "6a0df90846c793685d73193e",
+      "nome_jogador": "RAFAEL LIMA",
+      "email_jogador": "rafael@email.com",
+      "telefone_jogador": "99999-0002",
+      "posicao_preferida": "Ala",
+      "pontuacao": 30,
+      "assistencias": 3,
+      "rebotes": 5,
+      "roubos": 1,
+      "bloqueios": 0,
+      "qtd_partidas": 8
+    },
+    {
+      "_id": "6a0df90846c793685d73193f",
+      "nome_jogador": "GABRIEL SOUZA",
+      "email_jogador": "gabriel@email.com",
+      "telefone_jogador": "99999-0003",
+      "posicao_preferida": "Pivô",
+      "pontuacao": 18,
+      "assistencias": 2,
+      "rebotes": 10,
+      "roubos": 1,
+      "bloqueios": 2,
+      "qtd_partidas": 10
+    },
+    {
+      "_id": "6a0df90846c793685d731940",
+      "nome_jogador": "BRUNO COSTA",
+      "email_jogador": "bruno@email.com",
+      "telefone_jogador": "99999-0010",
+      "posicao_preferida": "Ala-Armador",
+      "pontuacao": 28,
+      "assistencias": 5,
+      "rebotes": 4,
+      "roubos": 3,
+      "bloqueios": 1,
+      "qtd_partidas": 8
+    },
+    {
+      "_id": "6a0df90846c793685d731941",
+      "nome_jogador": "JOAO CARVALHO",
+      "email_jogador": "joao@email.com",
+      "telefone_jogador": "99999-0005",
+      "posicao_preferida": "Ala-Pivô",
+      "pontuacao": 22,
+      "assistencias": 6,
+      "rebotes": 8,
+      "roubos": 1,
+      "bloqueios": 1,
+      "qtd_partidas": 8
+    },
+    {
+      "_id": "6a0df90846c793685d731942",
+      "nome_jogador": "MATEUS FERREIRA",
+      "email_jogador": "mateus@email.com",
+      "telefone_jogador": "99999-0006",
+      "posicao_preferida": "Armador",
+      "pontuacao": 26,
+      "assistencias": 7,
+      "rebotes": 3,
+      "roubos": 2,
+      "bloqueios": 1,
+      "qtd_partidas": 8
+    },
+    {
+      "_id": "6a0df90846c793685d731943",
+      "nome_jogador": "TIAGO RIBEIRO",
+      "email_jogador": "tiago@email.com",
+      "telefone_jogador": "99999-0007",
+      "posicao_preferida": "Ala",
+      "pontuacao": 24,
+      "assistencias": 4,
+      "rebotes": 5,
+      "roubos": 2,
+      "bloqueios": 1,
+      "qtd_partidas": 10
+    },
+    {
+      "_id": "6a0df90846c793685d731944",
+      "nome_jogador": "CAIO MENDES",
+      "email_jogador": "caio@email.com",
+      "telefone_jogador": "99999-0008",
+      "posicao_preferida": "Pivô",
+      "pontuacao": 19,
+      "assistencias": 3,
+      "rebotes": 9,
+      "roubos": 1,
+      "bloqueios": 2,
+      "qtd_partidas": 8
+    },
+    {
+      "_id": "6a0df90846c793685d731945",
+      "nome_jogador": "FELIPE BARROS",
+      "email_jogador": "felipe@email.com",
+      "telefone_jogador": "99999-0009",
+      "posicao_preferida": "Armador",
+      "pontuacao": 21,
+      "assistencias": 6,
+      "rebotes": 3,
+      "roubos": 2,
+      "bloqueios": 1,
+      "qtd_partidas": 4
+    },
+    {
+      "_id": "6a0df90846c793685d731946",
+      "nome_jogador": "DANIEL PEREIRA",
+      "email_jogador": "daniel@email.com",
+      "telefone_jogador": "99999-0011",
+      "posicao_preferida": "Ala-Pivô",
+      "pontuacao": 23,
+      "assistencias": 4,
+      "rebotes": 7,
+      "roubos": 1,
+      "bloqueios": 1,
+      "qtd_partidas": 6
+    }
+  ],
+  "times": [
+    {
+      "_id": "6a0df90846c793685d731951",
+      "nome_time": "RAPTORS"
+    },
+    {
+      "_id": "6a0df90846c793685d731952",
+      "nome_time": "WOLVES"
+    },
+    {
+      "_id": "6a0df90846c793685d731953",
+      "nome_time": "HAWKS"
+    },
+    {
+      "_id": "6a0df90846c793685d731954",
+      "nome_time": "TITANS"
+    },
+    {
+      "_id": "6a0df90846c793685d731955",
+      "nome_time": "BEARS"
+    },
+    {
+      "_id": "6a0df90846c793685d731956",
+      "nome_time": "GIANTS"
+    },
+    {
+      "_id": "6a0df90846c793685d731957",
+      "nome_time": "VIKINGS"
+    },
+    {
+      "_id": "6a0df90846c793685d731958",
+      "nome_time": "TEXANS"
+    },
+    {
+      "_id": "6a0df90846c793685d731959",
+      "nome_time": "LIONS"
+    },
+    {
+      "_id": "6a0df90846c793685d73195a",
+      "nome_time": "EAGLES"
+    }
+  ],
+  "jogos": [
+    {
+      "_id": "6a0df90846c793685d731947",
+      "local": "Quadra Central",
+      "qtd_max_jogador": 10,
+      "qtd_min_jogador": 6,
+      "status": "ENCERRADO",
+      "horario_inicio": "2024-03-05T18:00:00",
+      "horario_termino": "2024-03-05T19:30:00",
+      "valor_total": 120.0,
+      "data_jogo": "2024-03-05",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2024-02-20",
+      "data_encerramento_confirmacao": "2024-03-03",
+      "participantes_confirmados": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "data_confirmacao": "2024-02-25",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "data_confirmacao": "2024-02-26",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "data_confirmacao": "2024-02-27",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "data_confirmacao": "2024-02-28",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "data_confirmacao": "2024-02-29",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "data_confirmacao": "2024-03-01",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "data_confirmacao": "2024-03-02",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "data_confirmacao": "2024-03-03",
+          "data_pagamento": "2024-03-04",
+          "valor_pago": 15.0
+        }
+      ],
+      "formacao_times": [
+        {
+          "nome_time": "RAPTORS",
+          "jogadores_time": [
+            "6a0df90846c793685d73193d",
+            "6a0df90846c793685d73193e",
+            "6a0df90846c793685d73193f",
+            "6a0df90846c793685d731940"
+          ]
+        },
+        {
+          "nome_time": "WOLVES",
+          "jogadores_time": [
+            "6a0df90846c793685d731941",
+            "6a0df90846c793685d731942",
+            "6a0df90846c793685d731943",
+            "6a0df90846c793685d731944"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d731948",
+      "local": "Quadra Norte",
+      "qtd_max_jogador": 10,
+      "qtd_min_jogador": 6,
+      "status": "ENCERRADO",
+      "horario_inicio": "2024-05-20T17:00:00",
+      "horario_termino": "2024-05-20T18:30:00",
+      "valor_total": 120.0,
+      "data_jogo": "2024-05-20",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2024-05-01",
+      "data_encerramento_confirmacao": "2024-05-18",
+      "participantes_confirmados": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "data_confirmacao": "2024-05-05",
+          "data_pagamento": "2024-05-19",
+          "valor_pago": 20.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "data_confirmacao": "2024-05-05",
+          "data_pagamento": "2024-05-19",
+          "valor_pago": 20.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "data_confirmacao": "2024-05-07",
+          "data_pagamento": "2024-05-19",
+          "valor_pago": 20.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "data_confirmacao": "2024-05-08",
+          "data_pagamento": "2024-05-19",
+          "valor_pago": 20.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "data_confirmacao": "2024-05-09",
+          "data_pagamento": "2024-05-19",
+          "valor_pago": 20.0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "data_confirmacao": "2024-05-12",
+          "data_pagamento": "2024-05-19",
+          "valor_pago": 20.0
+        }
+      ],
+      "formacao_times": [
+        {
+          "nome_time": "HAWKS",
+          "jogadores_time": [
+            "6a0df90846c793685d73193d",
+            "6a0df90846c793685d73193f",
+            "6a0df90846c793685d731943"
+          ]
+        },
+        {
+          "nome_time": "TITANS",
+          "jogadores_time": [
+            "6a0df90846c793685d73193e",
+            "6a0df90846c793685d731940",
+            "6a0df90846c793685d731946"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d731949",
+      "local": "Quadra Sul",
+      "qtd_max_jogador": 10,
+      "qtd_min_jogador": 6,
+      "status": "ENCERRADO",
+      "horario_inicio": "2025-06-11T19:00:00",
+      "horario_termino": "2025-06-11T20:45:00",
+      "valor_total": 140.0,
+      "data_jogo": "2025-06-11",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-05-31",
+      "data_encerramento_confirmacao": "2025-06-09",
+      "participantes_confirmados": [
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "data_confirmacao": "2025-06-02",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "data_confirmacao": "2025-06-03",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "data_confirmacao": "2025-06-04",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "data_confirmacao": "2025-06-05",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "data_confirmacao": "2025-06-05",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "data_confirmacao": "2025-06-06",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731945",
+          "data_confirmacao": "2025-06-07",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "data_confirmacao": "2025-06-08",
+          "data_pagamento": "2025-06-10",
+          "valor_pago": 17.5
+        }
+      ],
+      "formacao_times": [
+        {
+          "nome_time": "BEARS",
+          "jogadores_time": [
+            "6a0df90846c793685d73193f",
+            "6a0df90846c793685d731940",
+            "6a0df90846c793685d731941",
+            "6a0df90846c793685d731942"
+          ]
+        },
+        {
+          "nome_time": "GIANTS",
+          "jogadores_time": [
+            "6a0df90846c793685d731943",
+            "6a0df90846c793685d731944",
+            "6a0df90846c793685d731945",
+            "6a0df90846c793685d731946"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d73194a",
+      "local": "Quadra Leste",
+      "qtd_max_jogador": 12,
+      "qtd_min_jogador": 8,
+      "status": "ENCERRADO",
+      "horario_inicio": "2025-07-10T18:30:00",
+      "horario_termino": "2025-07-10T20:00:00",
+      "valor_total": 180.0,
+      "data_jogo": "2025-07-10",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-06-28",
+      "data_encerramento_confirmacao": "2025-07-08",
+      "participantes_confirmados": [
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "data_confirmacao": "2025-06-28",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "data_confirmacao": "2025-06-28",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "data_confirmacao": "2025-07-01",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "data_confirmacao": "2025-07-02",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "data_confirmacao": "2025-07-03",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "data_confirmacao": "2025-07-04",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "data_confirmacao": "2025-07-06",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731945",
+          "data_confirmacao": "2025-07-08",
+          "data_pagamento": "2025-07-09",
+          "valor_pago": 22.5
+        }
+      ],
+      "formacao_times": [
+        {
+          "nome_time": "VIKINGS",
+          "jogadores_time": [
+            "6a0df90846c793685d73193f",
+            "6a0df90846c793685d731940",
+            "6a0df90846c793685d731941",
+            "6a0df90846c793685d731944"
+          ]
+        },
+        {
+          "nome_time": "TEXANS",
+          "jogadores_time": [
+            "6a0df90846c793685d73193e",
+            "6a0df90846c793685d731942",
+            "6a0df90846c793685d731943",
+            "6a0df90846c793685d731945"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d73194b",
+      "local": "Quadra Oeste",
+      "qtd_max_jogador": 12,
+      "qtd_min_jogador": 8,
+      "status": "ENCERRADO",
+      "horario_inicio": "2025-07-20T19:00:00",
+      "horario_termino": "2025-07-20T20:45:00",
+      "valor_total": 180.0,
+      "data_jogo": "2025-07-20",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-07-11",
+      "data_encerramento_confirmacao": "2025-07-18",
+      "participantes_confirmados": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "data_confirmacao": "2025-07-11",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "data_confirmacao": "2025-07-12",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "data_confirmacao": "2025-07-13",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "data_confirmacao": "2025-07-14",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "data_confirmacao": "2025-07-15",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "data_confirmacao": "2025-07-16",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "data_confirmacao": "2025-07-16",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "data_confirmacao": "2025-07-18",
+          "data_pagamento": "2025-07-19",
+          "valor_pago": 22.5
+        }
+      ],
+      "formacao_times": [
+        {
+          "nome_time": "LIONS",
+          "jogadores_time": [
+            "6a0df90846c793685d73193d",
+            "6a0df90846c793685d73193f",
+            "6a0df90846c793685d731942",
+            "6a0df90846c793685d731943"
+          ]
+        },
+        {
+          "nome_time": "EAGLES",
+          "jogadores_time": [
+            "6a0df90846c793685d73193e",
+            "6a0df90846c793685d731941",
+            "6a0df90846c793685d731944",
+            "6a0df90846c793685d731946"
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d73194c",
+      "local": "Quadra Central",
+      "qtd_max_jogador": 10,
+      "qtd_min_jogador": 6,
+      "status": "ABERTO",
+      "horario_inicio": "2025-11-14T17:30:00",
+      "horario_termino": "2025-11-14T19:00:00",
+      "valor_total": 150.0,
+      "data_jogo": "2025-11-14",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-11-05",
+      "data_encerramento_confirmacao": "2025-11-12",
+      "participantes_confirmados": [],
+      "formacao_times": []
+    },
+    {
+      "_id": "6a0df90846c793685d73194d",
+      "local": "Quadra Norte",
+      "qtd_max_jogador": 10,
+      "qtd_min_jogador": 6,
+      "status": "ABERTO",
+      "horario_inicio": "2025-11-19T18:00:00",
+      "horario_termino": "2025-11-19T19:30:00",
+      "valor_total": 150.0,
+      "data_jogo": "2025-11-19",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-11-11",
+      "data_encerramento_confirmacao": "2025-11-18",
+      "participantes_confirmados": [],
+      "formacao_times": []
+    },
+    {
+      "_id": "6a0df90846c793685d73194e",
+      "local": "Quadra Oeste",
+      "qtd_max_jogador": 12,
+      "qtd_min_jogador": 8,
+      "status": "ABERTO",
+      "horario_inicio": "2025-11-20T17:30:00",
+      "horario_termino": "2025-11-20T19:00:00",
+      "valor_total": 120.0,
+      "data_jogo": "2025-11-20",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-11-12",
+      "data_encerramento_confirmacao": "2025-11-18",
+      "participantes_confirmados": [],
+      "formacao_times": []
+    },
+    {
+      "_id": "6a0df90846c793685d73194f",
+      "local": "Quadra Sul",
+      "qtd_max_jogador": 10,
+      "qtd_min_jogador": 6,
+      "status": "ABERTO",
+      "horario_inicio": "2025-11-22T18:00:00",
+      "horario_termino": "2025-11-22T19:30:00",
+      "valor_total": 150.0,
+      "data_jogo": "2025-11-22",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-11-13",
+      "data_encerramento_confirmacao": "2025-11-20",
+      "participantes_confirmados": [],
+      "formacao_times": []
+    },
+    {
+      "_id": "6a0df90846c793685d731950",
+      "local": "Quadra Norte",
+      "qtd_max_jogador": 10,
+      "qtd_min_jogador": 6,
+      "status": "ABERTO",
+      "horario_inicio": "2025-11-30T18:00:00",
+      "horario_termino": "2025-11-30T20:00:00",
+      "valor_total": 180.0,
+      "data_jogo": "2025-11-30",
+      "tipo_pagamento_jogo": true,
+      "data_abertura_confirmacao": "2025-11-22",
+      "data_encerramento_confirmacao": "2025-11-28",
+      "participantes_confirmados": [],
+      "formacao_times": []
+    }
+  ],
+  "partidas": [
+    {
+      "_id": "6a0df90846c793685d73195b",
+      "id_jogo": "6a0df90846c793685d731947",
+      "time_1_nome": "RAPTORS",
+      "time_2_nome": "WOLVES",
+      "pontuacao_time_1": 80,
+      "pontuacao_time_2": 75,
+      "resultado_partida": "TIME1",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "pontuacao": 25,
+          "assistencias": 5,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 14,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 11,
+          "assistencias": 5,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 3
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 30,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 18,
+          "assistencias": 2,
+          "rebotes": 10,
+          "roubos": 1,
+          "bloqueios": 2
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 15,
+          "assistencias": 4,
+          "rebotes": 3,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 22,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 15,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 1
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d73195c",
+      "id_jogo": "6a0df90846c793685d731947",
+      "time_1_nome": "RAPTORS",
+      "time_2_nome": "WOLVES",
+      "pontuacao_time_1": 68,
+      "pontuacao_time_2": 72,
+      "resultado_partida": "TIME2",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "pontuacao": 17,
+          "assistencias": 5,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 12,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 13,
+          "assistencias": 5,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 3
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 26,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 22,
+          "assistencias": 2,
+          "rebotes": 10,
+          "roubos": 1,
+          "bloqueios": 2
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 15,
+          "assistencias": 4,
+          "rebotes": 3,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 20,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 15,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 2,
+          "bloqueios": 1
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d73195d",
+      "id_jogo": "6a0df90846c793685d731948",
+      "time_1_nome": "HAWKS",
+      "time_2_nome": "TITANS",
+      "pontuacao_time_1": 85,
+      "pontuacao_time_2": 60,
+      "resultado_partida": "TIME1",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "pontuacao": 30,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 15,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 27,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 23,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 28,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "pontuacao": 22,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d73195e",
+      "id_jogo": "6a0df90846c793685d731948",
+      "time_1_nome": "HAWKS",
+      "time_2_nome": "TITANS",
+      "pontuacao_time_1": 70,
+      "pontuacao_time_2": 77,
+      "resultado_partida": "TIME2",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "pontuacao": 20,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 29,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 26,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 31,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 24,
+          "assistencias": 2,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "pontuacao": 17,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d73195f",
+      "id_jogo": "6a0df90846c793685d731949",
+      "time_1_nome": "BEARS",
+      "time_2_nome": "GIANTS",
+      "pontuacao_time_1": 66,
+      "pontuacao_time_2": 61,
+      "resultado_partida": "TIME1",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 15,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 15,
+          "assistencias": 2,
+          "rebotes": 7,
+          "roubos": 1,
+          "bloqueios": 2
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 15,
+          "assistencias": 6,
+          "rebotes": 8,
+          "roubos": 2,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 16,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 20,
+          "assistencias": 2,
+          "rebotes": 7,
+          "roubos": 1,
+          "bloqueios": 2
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 16,
+          "assistencias": 6,
+          "rebotes": 8,
+          "roubos": 2,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731945",
+          "pontuacao": 14,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "pontuacao": 16,
+          "assistencias": 2,
+          "rebotes": 7,
+          "roubos": 1,
+          "bloqueios": 2
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d731960",
+      "id_jogo": "6a0df90846c793685d731949",
+      "time_1_nome": "BEARS",
+      "time_2_nome": "GIANTS",
+      "pontuacao_time_1": 59,
+      "pontuacao_time_2": 63,
+      "resultado_partida": "TIME2",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 15,
+          "assistencias": 6,
+          "rebotes": 8,
+          "roubos": 2,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 19,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 14,
+          "assistencias": 2,
+          "rebotes": 7,
+          "roubos": 1,
+          "bloqueios": 2
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 15,
+          "assistencias": 6,
+          "rebotes": 8,
+          "roubos": 2,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 12,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 18,
+          "assistencias": 2,
+          "rebotes": 7,
+          "roubos": 1,
+          "bloqueios": 2
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731945",
+          "pontuacao": 11,
+          "assistencias": 6,
+          "rebotes": 8,
+          "roubos": 2,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "pontuacao": 18,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 1,
+          "bloqueios": 1
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d731961",
+      "id_jogo": "6a0df90846c793685d73194a",
+      "time_1_nome": "VIKINGS",
+      "time_2_nome": "TEXANS",
+      "pontuacao_time_1": 78,
+      "pontuacao_time_2": 77,
+      "resultado_partida": "TIME1",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 23,
+          "assistencias": 4,
+          "rebotes": 2,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 22,
+          "assistencias": 5,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 18,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 20,
+          "assistencias": 4,
+          "rebotes": 2,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 18,
+          "assistencias": 5,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 20,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 17,
+          "assistencias": 4,
+          "rebotes": 2,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731945",
+          "pontuacao": 17,
+          "assistencias": 5,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d731962",
+      "id_jogo": "6a0df90846c793685d73194a",
+      "time_1_nome": "VIKINGS",
+      "time_2_nome": "TEXANS",
+      "pontuacao_time_1": 88,
+      "pontuacao_time_2": 80,
+      "resultado_partida": "TIME1",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 20,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 30,
+          "assistencias": 4,
+          "rebotes": 2,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731940",
+          "pontuacao": 25,
+          "assistencias": 5,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 18,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 20,
+          "assistencias": 4,
+          "rebotes": 2,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 20,
+          "assistencias": 5,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 15,
+          "assistencias": 3,
+          "rebotes": 5,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731945",
+          "pontuacao": 20,
+          "assistencias": 4,
+          "rebotes": 2,
+          "roubos": 1,
+          "bloqueios": 0
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d731963",
+      "id_jogo": "6a0df90846c793685d73194b",
+      "time_1_nome": "LIONS",
+      "time_2_nome": "EAGLES",
+      "pontuacao_time_1": 30,
+      "pontuacao_time_2": 25,
+      "resultado_partida": "TIME1",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "pontuacao": 7,
+          "assistencias": 3,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 10,
+          "assistencias": 6,
+          "rebotes": 7,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 0,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 6,
+          "assistencias": 3,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 9,
+          "assistencias": 6,
+          "rebotes": 7,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 9,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 5,
+          "assistencias": 3,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "pontuacao": 9,
+          "assistencias": 6,
+          "rebotes": 7,
+          "roubos": 0,
+          "bloqueios": 1
+        }
+      ]
+    },
+    {
+      "_id": "6a0df90846c793685d731964",
+      "id_jogo": "6a0df90846c793685d73194b",
+      "time_1_nome": "LIONS",
+      "time_2_nome": "EAGLES",
+      "pontuacao_time_1": 42,
+      "pontuacao_time_2": 50,
+      "resultado_partida": "TIME2",
+      "estatisticas_partida": [
+        {
+          "id_jogador": "6a0df90846c793685d73193d",
+          "pontuacao": 16,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193e",
+          "pontuacao": 20,
+          "assistencias": 3,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d73193f",
+          "pontuacao": 17,
+          "assistencias": 6,
+          "rebotes": 7,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731941",
+          "pontuacao": 16,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 1,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731942",
+          "pontuacao": 4,
+          "assistencias": 3,
+          "rebotes": 4,
+          "roubos": 1,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731943",
+          "pontuacao": 5,
+          "assistencias": 6,
+          "rebotes": 7,
+          "roubos": 0,
+          "bloqueios": 1
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731944",
+          "pontuacao": 2,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 10,
+          "bloqueios": 0
+        },
+        {
+          "id_jogador": "6a0df90846c793685d731946",
+          "pontuacao": 12,
+          "assistencias": 4,
+          "rebotes": 6,
+          "roubos": 2,
+          "bloqueios": 0
+        }
+      ]
+    }
+  ]
+}
