@@ -1083,8 +1083,8 @@
     {
       "_id": "6a0df90846c793685d731961",
       "id_jogo": "6a0df90846c793685d73194a",
-      "time_1_nome": "VIKINGS",
-      "time_2_nome": "TEXANS",
+      "time_1_nome": "TEXANS",
+      "time_2_nome": "VIKINGS",
       "pontuacao_time_1": 78,
       "pontuacao_time_2": 77,
       "resultado_partida": "TIME1",
@@ -1233,8 +1233,8 @@
     {
       "_id": "6a0df90846c793685d731963",
       "id_jogo": "6a0df90846c793685d73194b",
-      "time_1_nome": "LIONS",
-      "time_2_nome": "EAGLES",
+      "time_1_nome": "EAGLES",
+      "time_2_nome": "LIONS",
       "pontuacao_time_1": 30,
       "pontuacao_time_2": 25,
       "resultado_partida": "TIME1",
